@@ -14,4 +14,6 @@ The classification task focuses on identifying distinct cricket shots, including
 ![use](https://i.ibb.co/RBTQMyw/28415download5.png)
 ## Results
 
+Through experimentation with various deep learning models—VGGNet, ResNet, MobileNet, EfficientNet, and DenseNet—we evaluate their performance in accurately classifying cricket shots. The results provide insights into the effectiveness of each model for classifying different cricket actions, facilitating informed decisions for application in cricket analysis and training scenarios.
+
 ![intro](https://i.ibb.co/885KS71/results-17-0.png)
